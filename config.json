@@ -3,5 +3,44 @@
     "zp": 1,
     "cq": 1,
     "jk": 1,
-    "qp": 1
+    "qp": 1,
+    "bx": 1,
+
+    "Mahjong_on": 1,
+    "empty_package": 1,
+    "saving_switch": 1,
+    "redeem_turn": 2,
+
+    "full_gap": 60,
+    "full_ad_gap": 30,
+    "backapp_on": 2,
+    "jincheng_ad_switch": 2,
+    "back_ad_switch": 2,
+    "back_ad_limit": 9999,
+
+    "vertcoin_fl_free": 1,
+    "vertcoin_fl_gap": 1,
+    "progress_fl_free": 1,
+    "progress_fl_gap": 1,
+    "jackpot_fl_free": 1,
+    "jackpot_fl_gap": 1,
+    "pop_fl_free": 1,
+    "pop_fl_gap": 1,
+    "online_fl_free": 1,
+    "online_fl_gap": 1,
+    "pig_fl_free": 1,
+    "pig_fl_gap": 1,
+
+    "vertcoin_ji_full": 1,
+    "pop_ji_full": 1,
+    "progress_ji_full": 1,
+    "jackpot_ji_full": 1,
+    "online_ji_full": 1,
+
+    "fun_rate_switch": 2,
+    "fun_rate_state": 2,
+    "audit_mode_switch": 2,
+    "audit_mode_state": 2,
+    "lucky_gold_switch": 2,
+    "lucky_gold_state": 2
 }
