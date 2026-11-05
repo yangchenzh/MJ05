@@ -7,6 +7,7 @@
     "bx": 1,
 
     "Mahjong_on": 1,
+    "isSplashEnable": 1,
     "empty_package": 0,
     "saving_switch": 1,
     "redeem_turn": 2,
@@ -42,5 +43,7 @@
     "audit_mode_switch": 2,
     "audit_mode_state": 2,
     "lucky_gold_switch": 2,
-    "lucky_gold_state": 2
+    "lucky_gold_state": 2,
+
+    "email": "mahjongmerge05@outlook.com"
 }
