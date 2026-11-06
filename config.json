@@ -1,10 +1,10 @@
 {
-    "na": 0,
-    "zp": 0,
-    "cq": 0,
-    "jk": 0,
-    "qp": 0,
-    "bx": 0,
+    "na": 1,
+    "zp": 1,
+    "cq": 1,
+    "jk": 1,
+    "qp": 1,
+    "bx": 1,
 
     "Mahjong_on": 1,
     "isSplashEnable": 1,
